@@ -1,1 +1,1 @@
-用来学习microserviceCloud-config
+用来学习SpringCloud-config
